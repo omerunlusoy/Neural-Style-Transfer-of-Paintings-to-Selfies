@@ -3,10 +3,11 @@ Google Colab Link: https://colab.research.google.com/drive/1qYvlj5EcUXoWtAHq5Mra
 Changes from Computer to Computer:
 	- Package Dependencies
 	- Google Drive Permissions
-	- Artisits Dataset from Google Drive (these two datasets does not allow access from kaggle and have to be downloaded)
-		- can be downloaded from https://www.kaggle.com/ikarus777/best-artworks-of-all-time
-	- Van Gogh Dataset from Google Drive
-		- can be downloaded from https://www.kaggle.com/ipythonx/van-gogh-paintings
+	- Datasets from Google Drive (Datasets will be deleted within a month from my personal Drive)
+		- Artisits Dataset from Google Drive (these two datasets does not allow access from kaggle and have to be downloaded)
+			- can be downloaded from https://www.kaggle.com/ikarus777/best-artworks-of-all-time
+		- Van Gogh Dataset from Google Drive
+			- can be downloaded from https://www.kaggle.com/ipythonx/van-gogh-paintings
 	- Log Filename
 
 Hyperparameters:
