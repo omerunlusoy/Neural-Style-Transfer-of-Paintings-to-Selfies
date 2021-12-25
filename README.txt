@@ -1,7 +1,31 @@
-Google Colab Link (for demo): https://colab.research.google.com/drive/1qYvlj5EcUXoWtAHq5MraGab7PkSR9YoI?usp=sharing
-Google Colab Link (for experiments): https://colab.research.google.com/drive/15Tq7ttrOTahoASyUT21sDlimTx-8mhyM?usp=sharing
-Database Link: https://drive.google.com/drive/folders/1K2mR0r3fJdb3ZVPCKxGJv-9KToaDzo8u?usp=sharing
-Expected Run Time: < 25 min with Google Colab GPUs
+Before Run:
+	- If the TA wants to view the results, submitted .ipynb files have results on them or TA can view it on Colab with the Share links below.
+	- If the TA wants to run the code, it is suggested that s/he run on the Colab with the Share links below (add shortcut of the Database link to your 	Drive).
+	- It should be noted that the databases are hosted by me and have to be accessed by the Share link below.
+	- Example runs with outputs and log files are given in the submission.
+	- For any problems, please contact Ömer Ünlüsoy, omer.unlusoy@ug.bilkent.edu.tr, +90 542 417 3804
+
+	- Google Colab Link (Style Transfer): https://colab.research.google.com/drive/1qYvlj5EcUXoWtAHq5MraGab7PkSR9YoI?usp=sharing
+	- Google Colab Link (for experiment I): https://colab.research.google.com/drive/15Tq7ttrOTahoASyUT21sDlimTx-8mhyM?usp=sharing
+	- Google Colab Link (for experiment II): https://colab.research.google.com/drive/1NYRHSfb4BdJFh7CBzkwZzvUrq9IDyOWv?usp=sharing
+	- Database Link: https://drive.google.com/drive/folders/1K2mR0r3fJdb3ZVPCKxGJv-9KToaDzo8u?usp=sharing
+
+	- Expected Run Time: < 25 min with Google Colab GPUs
+
+To Run:
+	- Style Transfer Colab will ask user if s/he wants to use Van Gogh(V) or Other Artisits(A).
+	- For Van Gogh, code expects another input, place; for Other Artists, code expects the name of the Artist from the list.
+	- Then, the code starts to run, train.
+
+Experiments:
+	- The first experiment is Alpha Ratio (Style Weight / Content Weight).
+	- The second experiment is Learning Rate.
+	- The third experiment is saving the training procedure as a video which experiments the iteration (epoch) vs output.
+
+Outputs:
+	- Final Target Image
+	- 3 Images in One Picture (Content, Style, Target)
+	- Transformation Video (Training Procedure)
 
 Changes from Computer to Computer:
 	- Package Dependencies
@@ -20,11 +44,6 @@ Hyperparameters:
 	- Content and Style Layers (of the Model)		-> best value: Conv1_1, Conv2_1, Conv3_1, Conv4_1, *Conv4_2, Conv5_1
 	- Style Weights									-> best value: 'conv1_1': 1., 'conv2_1': .78, 'conv3_1': .25, 
 																	'conv4_1': .22, 'conv5_1': .18
-
-Outputs:
-	- Final Target Image
-	- 3 Images in One Picture
-	- Transformation Video
 
 Run Scheme:
 	- User can select Van Gogh or all other artists;
