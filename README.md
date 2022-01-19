@@ -1,4 +1,4 @@
-# CS464-Project
+# Neural Style Transfer of Paintings to Selfies
 Style Transfer of selfies to paintings using Convolutional Neural Networks
 
 Style transfer is a method of applying the features of one input image (photo, painting, etc.) which is called Content Image onto another input image, Style Image, to produce an output image, Target Image, with the content of one and the style of the other.
