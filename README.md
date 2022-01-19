@@ -15,12 +15,14 @@ Several example runs can be seen in the example-runs folder.
 Content Image is a selfie of Hayley Williams.
 Style Image is a painting of Van Gogh.
 
-https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_0.jpg
+![Example Run 1](https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_0.jpg)
+
 
 ### Example Run 2
 
-https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_1.jpg
+![Example Run 2](https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_1.jpg)
+
 
 ### Example Run 3
 
-https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_2.jpg
+![Example Run 3](https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_2.jpg)
