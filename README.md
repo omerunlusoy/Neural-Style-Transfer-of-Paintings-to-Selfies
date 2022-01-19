@@ -10,3 +10,17 @@ This project uses Convolutional Neural Networks (VGG-19) for the style transfer 
 The project transferred styles of famous paintings onto photographs in the form of portraits and selfies, especially focusing on the selection of certain Artists such as Van Gogh, Francisco Goya, El Greco, etc.
 
 Several example runs can be seen in the example-runs folder.
+
+### Example Run 1
+Content Image is a selfie of Hayley Williams.
+Style Image is a painting of Van Gogh.
+
+https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_0.jpg
+
+### Example Run 2
+
+https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_1.jpg
+
+### Example Run 3
+
+https://github.com/omerunlusoy/CS464-Project/blob/main/example_runs/three_images_2.jpg
